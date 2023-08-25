@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attak
+  - PlayerSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - Lava
+  - IcyPlayerCollider
+  - Background
+  - Fade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2269126565
+    locked: 0
+  - name: Platform
+    uniqueID: 3547796857
+    locked: 0
+  - name: Player
+    uniqueID: 956288073
+    locked: 0
+  - name: Fade
+    uniqueID: 2195211501
+    locked: 0
+  - name: UI
+    uniqueID: 3272757745
+    locked: 0
